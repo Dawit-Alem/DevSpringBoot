@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 
 @ControllerAdvice
 public class StudentRestExceptionHandler {
-    
+
     // Add an exception handler using @ExceptionHandler
 
     @ExceptionHandler
