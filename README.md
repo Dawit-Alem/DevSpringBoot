@@ -4,4 +4,8 @@ Section 1: Spring Boot Overview
 
 Section 2: Spring Core
 
+Section 3: Hibernate/JPA
 
+Section 4: Rest Api
+
+Section 5: Spring Security
